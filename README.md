@@ -151,7 +151,7 @@ Go to `/src/index.html` and put your information, there are 5 sections:
             class="img-fluid rounded shadow-lg"
             height="auto"
             width="300px"
-            src="assets/profile.jpg"
+            src="assets/profile.jpeg"
             alt="Profile Image"
           />
         </div>
